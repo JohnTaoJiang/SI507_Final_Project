@@ -1,0 +1,302 @@
+
+{"columbia" :   [{
+                    "id": "seasoned-vegan-new-york-2",
+                    "name": "Seasoned Vegan",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vtPi3YjtHC34GXu7S5G53w/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/seasoned-vegan-new-york-2?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 624,
+                    "categories": [
+                        {
+                            "alias": "vegan",
+                            "title": "Vegan"
+                        },
+                        {
+                            "alias": "soulfood",
+                            "title": "Soul Food"
+                        },
+                        {
+                            "alias": "kosher",
+                            "title": "Kosher"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 40.80064,
+                        "longitude": -73.952804
+                    },
+                    "transactions": [
+                        "delivery",
+                        "pickup"
+                    ],
+                    "price": "$$",
+                    "location": {
+                        "address1": "55 St Nicholas Ave",
+                        "address2": "",
+                        "address3": "",
+                        "city": "New York",
+                        "zip_code": "10026",
+                        "country": "US",
+                        "state": "NY",
+                        "display_address": [
+                            "55 St Nicholas Ave",
+                            "New York, NY 10026"
+                        ]
+                    },
+                    "phone": "+12122220092",
+                    "display_phone": "(212) 222-0092",
+                    "distance": 1125.6670895656
+                },
+                {
+                    "id": "pisticci-new-york",
+                    "name": "Pisticci",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6v6_REhrIdMm03La5RZNfQ/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/pisticci-new-york?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 657,
+                    "categories": [
+                        {
+                            "alias": "italian",
+                            "title": "Italian"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 40.8141624,
+                        "longitude": -73.960288
+                    },
+                    "transactions": [
+                        "restaurant_reservation"
+                    ],
+                    "price": "$$",
+                    "location": {
+                        "address1": "125 La Salle St",
+                        "address2": "",
+                        "address3": "",
+                        "city": "New York",
+                        "zip_code": "10027",
+                        "country": "US",
+                        "state": "NY",
+                        "display_address": [
+                            "125 La Salle St",
+                            "New York, NY 10027"
+                        ]
+                    },
+                    "phone": "+12129323500",
+                    "display_phone": "(212) 932-3500",
+                    "distance": 769.5381721736
+                },
+                {
+                    "id": "saiguette-new-york",
+                    "name": "Saiguette",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CGSy1Ni2iaxYuTq3QuWEgg/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/saiguette-new-york?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 448,
+                    "categories": [
+                        {
+                            "alias": "vietnamese",
+                            "title": "Vietnamese"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 40.79898,
+                        "longitude": -73.962707
+                    },
+                    "transactions": [],
+                    "price": "$$",
+                    "location": {
+                        "address1": "935 Columbus Ave",
+                        "address2": "",
+                        "address3": "",
+                        "city": "New York",
+                        "zip_code": "10025",
+                        "country": "US",
+                        "state": "NY",
+                        "display_address": [
+                            "935 Columbus Ave",
+                            "New York, NY 10025"
+                        ]
+                    },
+                    "phone": "+12128668886",
+                    "display_phone": "(212) 866-8886",
+                    "distance": 956.1937062179999
+                },
+                {
+                    "id": "lolos-seafood-shack-new-york",
+                    "name": "Lolo's Seafood Shack",
+                    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KPT7UUYDhCSfs1E8NUfeKw/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/lolos-seafood-shack-new-york?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 456,
+                    "categories": [
+                        {
+                            "alias": "seafood",
+                            "title": "Seafood"
+                        },
+                        {
+                            "alias": "sandwiches",
+                            "title": "Sandwiches"
+                        },
+                        {
+                            "alias": "bars",
+                            "title": "Bars"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 40.80486,
+                        "longitude": -73.95567
+                    },
+                    "transactions": [
+                        "delivery",
+                        "pickup",
+                        "restaurant_reservation"
+                    ],
+                    "price": "$$",
+                    "location": {
+                        "address1": "303 W 116th St",
+                        "address2": "",
+                        "address3": "",
+                        "city": "New York",
+                        "zip_code": "10026",
+                        "country": "US",
+                        "state": "NY",
+                        "display_address": [
+                            "303 W 116th St",
+                            "New York, NY 10026"
+                        ]
+                    },
+                    "phone": "+16466493356",
+                    "display_phone": "(646) 649-3356",
+                    "distance": 651.489478252
+                }
+            ],
+
+    "umich": [{
+                    "id": "frita-batidos-ann-arbor",
+                    "name": "Frita Batidos",
+                    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MceQaWFvYKdp-pyBTSkiXg/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/frita-batidos-ann-arbor?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 1215,
+                    "categories": [
+                        {
+                            "alias": "cuban",
+                            "title": "Cuban"
+                        },
+                        {
+                            "alias": "burgers",
+                            "title": "Burgers"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 42.2803651,
+                        "longitude": -83.7491532
+                    },
+                    "transactions": [],
+                    "price": "$$",
+                    "location": {
+                        "address1": "117 W Washington St",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Ann Arbor",
+                        "zip_code": "48104",
+                        "country": "US",
+                        "state": "MI",
+                        "display_address": [
+                            "117 W Washington St",
+                            "Ann Arbor, MI 48104"
+                        ]
+                    },
+                    "phone": "+17347612882",
+                    "display_phone": "(734) 761-2882",
+                    "distance": 945.0564567189119
+                },
+                {
+                    "id": "eat-ann-arbor-2",
+                    "name": "eat",
+                    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V1trnkz3zTw5jooUOqzyIw/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/eat-ann-arbor-2?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 132,
+                    "categories": [
+                        {
+                            "alias": "newamerican",
+                            "title": "American (New)"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 42.2585802,
+                        "longitude": -83.7286638
+                    },
+                    "transactions": [],
+                    "price": "$$",
+                    "location": {
+                        "address1": "1906 Packard St",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Ann Arbor",
+                        "zip_code": "48104",
+                        "country": "US",
+                        "state": "MI",
+                        "display_address": [
+                            "1906 Packard St",
+                            "Ann Arbor, MI 48104"
+                        ]
+                    },
+                    "phone": "+17342137011",
+                    "display_phone": "(734) 213-7011",
+                    "distance": 2281.63204607899
+                },
+                {
+                    "id": "aventura-ann-arbor",
+                    "name": "Aventura",
+                    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MI2Et3zsP9L_53fN5Ge8LA/o.jpg",
+                    "is_closed": false,
+                    "url": "https://www.yelp.com/biz/aventura-ann-arbor?adjust_creative=9KBps_DaeoE6xt1NADNl5g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=9KBps_DaeoE6xt1NADNl5g",
+                    "review_count": 500,
+                    "categories": [
+                        {
+                            "alias": "tapas",
+                            "title": "Tapas Bars"
+                        },
+                        {
+                            "alias": "spanish",
+                            "title": "Spanish"
+                        },
+                        {
+                            "alias": "bars",
+                            "title": "Bars"
+                        }
+                    ],
+                    "rating": 4.0,
+                    "coordinates": {
+                        "latitude": 42.28026,
+                        "longitude": -83.746473
+                    },
+                    "transactions": [
+                        "restaurant_reservation"
+                    ],
+                    "price": "$$",
+                    "location": {
+                        "address1": "216 E Washington St",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Ann Arbor",
+                        "zip_code": "48104",
+                        "country": "US",
+                        "state": "MI",
+                        "display_address": [
+                            "216 E Washington St",
+                            "Ann Arbor, MI 48104"
+                        ]
+                    },
+                    "phone": "+17343693153",
+                    "display_phone": "(734) 369-3153",
+                    "distance": 713.4973317148639
+                }]
+}

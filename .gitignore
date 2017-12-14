@@ -1,0 +1,6 @@
+__pycache__/*
+venvfinal/*
+data.json
+db_design.txt
+test_data.json
+token.json
